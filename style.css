@@ -32,12 +32,18 @@ body {
     padding: 20px;
 }
 
-.article, .controls {
+.box{
     background-color: #00FFFF;
     padding: 20px;
-    flex: 1;
     margin: 10px;
-    width: 60%;
+    width:40%;
+    border: 1px solid #3CDDDF;
+}
+.box-3{
+    background-color: #00FFFF;
+    padding: 20px;
+    margin: 10px;
+    width: 50%;
     border: 1px solid #3CDDDF;
 }
 
@@ -65,7 +71,7 @@ button:hover {
 }
 .button-1{
     
-        padding: 10px 210px;
+        padding: 10px 290px;
         background-color: #e6e6e6;
         border: none;
         cursor: pointer;
